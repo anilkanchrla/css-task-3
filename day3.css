@@ -1,0 +1,22 @@
+
+body{
+    background-color: aqua;
+}
+.card-container{
+    justify-content: center;
+    margin-top: 100px;
+    display: flex;
+}
+.card{
+    width: 200px;
+    image-rendering: auto;
+    background-color: bisque;
+    border-radius: 8px;
+    border: 2px solid black;
+    margin: 60px;
+    padding: 8px;
+    
+}
+.pic{
+    width:200px;
+}
